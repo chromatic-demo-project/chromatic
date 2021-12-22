@@ -3,7 +3,7 @@ import './popup.css';
 
 export const MyPopup = () => {
     return (
-    <div className="popup">
+    <div className='popup'>
       <h1>Hello World</h1>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. 
