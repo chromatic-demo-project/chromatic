@@ -1,0 +1,13 @@
+.popup {
+  max-width: 350px;
+  padding: 25px;
+  background: #ffffff;
+  border-radius: 20px;
+
+  font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  margin: 0;
+}
